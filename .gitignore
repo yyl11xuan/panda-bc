@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.vscode/
+.idea/
+
+# Virtual environments
+.venv/
+venv/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Experiment outputs
+runs/
+logs/
+tensorboard/
+
+# Environment variables
+.env
